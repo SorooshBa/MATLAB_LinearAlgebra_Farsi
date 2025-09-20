@@ -102,6 +102,14 @@
 - 🔹 [`qrinsert`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/qrinsert.md)
 - 🔹 [`qrdelete`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/qrdelete.md)
 - 🔹 [`qrupdate`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/qrupdate.md)
+- 🔹 [`eigshow`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/eigshow.md)
+- 🔹 [`kron`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/kron.md)
+- 🔹 [`funm`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/funm.md)
+- 🔹 [`sqrtm`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/sqrtm.md)
+- 🔹 [`logm`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/logm.md)
+- 🔹 [`expm`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/expm.md)
+- 🔹 [`polyvalm`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/polyvalm.md)
+- 🔹 [`poly`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/poly.md)
 
 </div>
 
