@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 <div dir="rtl">
 
