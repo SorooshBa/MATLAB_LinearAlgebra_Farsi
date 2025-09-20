@@ -1,4 +1,3 @@
-```markdown
 
 
 # نام تابع: minus
