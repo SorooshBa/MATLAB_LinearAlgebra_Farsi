@@ -14,7 +14,7 @@
 لیست توابع موجود در این پروژه به صورت کلیک‌پذیر آورده شده است:
 <div dir="ltr" align="left">
 
-1. [`plus`](#)  
+1. [`plus`](https://github.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/blob/main/Functions/plus.md)
 2. [`minus`](#)  
 3. [`mtimes`](#)  
 4. [`times`](#)  
