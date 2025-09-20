@@ -1,7 +1,4 @@
-```markdown
----
-dir: rtl
----
+
 
 # نام تابع: minus
 
