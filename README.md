@@ -1,6 +1,9 @@
 <div dir="rtl" align="right">
 
 # MATLAB_LinearAlgebra_Farsi 📘✨
+<div align="center">
+<img src="https://raw.githubusercontent.com/SorooshBa/MATLAB_LinearAlgebra_Farsi/refs/heads/main/image.png" alt="MATLAB Linear Algebra" width="400"/>
+</div>
 
 این ریپوزیتوری شامل **تمام توابع جبر خطی در MATLAB** است.  
 هدف این پروژه، ارائه یک **مرجع آموزشی کامل و منظم به زبان فارسی** برای دانشجویان، پژوهشگران و علاقه‌مندان به MATLAB است.  
